@@ -1,0 +1,20 @@
+{
+  "packageId": "wpkcN3Axp61L6",
+  "spaceId": "spczdmQDfBAn5",
+  "entry": "./src/index.ts",
+  "name": {
+    "zh-CN": "贪吃蛇",
+    "en-US": "snake"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorName": "__template__",
+  "authorIcon": "./author_icon.png",
+  "authorLink": "https://vika.cn",
+  "authorEmail": "wangbo@vikadata.com",
+  "description": {
+    "zh-CN": "简单的维格表摸鱼小游戏，贪吃蛇",
+    "en-US": "a simple vika widget game snake"
+  },
+  "globalPackageId": "wpk2jJ7qZS0VG"
+}
